@@ -14,3 +14,14 @@ I'm not actually sure what to make this site about just yet. So, for now, I'm ju
 # Heading 4
 This is how you put a link inside text.
 This is [an example](http://example.com/ "Title") inline link.
+
+# Heading 5
+This is another way to put link inside text.
+
+I like [Google]
+
+[Google]: http://google.com
+
+# Heading 6
+
+You can put images by
