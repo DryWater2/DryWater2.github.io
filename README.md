@@ -10,3 +10,7 @@ I'm not actually sure what to make this site about just yet. So, for now, I'm ju
 # Heading 3
 
 ### I also don't understand how to do certain HTML things with Markdown. For example, for html, I'm able to change the font-size with style; how do I do that with markdown? I figured out how to change the font-size. It's based on the header.
+
+# Heading 4
+This is how you put a link inside text.
+This is [an example](http://example.com/ "Title") inline link.
