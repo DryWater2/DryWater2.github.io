@@ -25,4 +25,4 @@ I like [Google]
 # Heading 6
 
 You can put images by doing
-![Alt text] (https://www.flickr.com/photos/68276147@N07/6257904393)
+![Alt text] (Cow.jpg)
