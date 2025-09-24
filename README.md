@@ -25,4 +25,4 @@ I like [Google]
 # Heading 6
 
 You can put images by doing
-![Alt text] (Cow.jpg)
+![Alt text] (https://github.com/DryWater2/DryWater2.github.io/blob/main/Cow.jpg)
