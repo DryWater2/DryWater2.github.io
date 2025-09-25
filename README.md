@@ -25,4 +25,5 @@ I like [Google]
 # Heading 6
 
 You can put images by doing
-![Alt text](Cow.jpg)
+
+<img src="Cow.jpg" width="200" height="100"/>
