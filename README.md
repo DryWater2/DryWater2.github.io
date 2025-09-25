@@ -27,3 +27,4 @@ I like [Google]
 You can put images by doing
 
 <img src="Cow.jpg" width="200" height="100"/>
+Look! I figured out how to edit the image's height and width. Apparently you can use HTML inside of a markdown file. It's cool!
