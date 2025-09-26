@@ -23,6 +23,7 @@ Drinks are used very often, so they need to be put into places that are not too 
 The freezer, unlike the fridge, isn't too hard to organize. Anything that is a snack/dessert, like ice cream or frozen waffles, go on the top shelf of the freezer. Anything else, such as frozen pizzas or similar items, go on the bottom shelf of the freezer (or whichever shelf is bigger). Any remaining space can be used for ice cubes if desired, but some freezers may have automatic ice makers so this may not be needed.
 <img src="Freezer.png" Height="500">
 "freezer interior" by girl_named_fred is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
+
 # Heading 6
 
 You can put images by doing
@@ -31,3 +32,5 @@ You can put images by doing
 Look! I figured out how to edit the image's height and width. Apparently you can use HTML inside of a markdown file. It's cool!
 
 [here]:https://www.walmart.com/ip/InterDesign-Fridge-Binz-Water-Bottle-Holder-Clear/38413024?wmlspartner=wlpa&selectedSellerId=102526002 
+[https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse.
+[https://creativecommons.org/licenses/by/2.0/?ref=openverse}]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
