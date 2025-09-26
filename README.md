@@ -25,5 +25,5 @@ The freezer, unlike the fridge, isn't too hard to organize. Anything that is a s
 "freezer interior" by girl_named_fred is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
 
 [here]:https://www.walmart.com/ip/InterDesign-Fridge-Binz-Water-Bottle-Holder-Clear/38413024?wmlspartner=wlpa&selectedSellerId=102526002 
-[https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse.
-[https://creativecommons.org/licenses/by/2.0/?ref=openverse}]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
+[https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
+[https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
