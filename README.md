@@ -5,7 +5,7 @@ Organizing a fridge should be based on how much available space is in your fridg
 
 # The essentials
 
-The first thing you need to make sure your fridge has, are the essentials. These are the things that your family uses the most of, and are often put into the dishes that are cooked or eaten with them. Examples of this include milk, vegetables (like tomatoes, lettuce, carrots, onions, etc...), cheese, and butter. These are usually things you would place in different categories. The cheese and butter can go on the side of the fridge, or on the top, while the vegetables can go into the bottom trays of a fridge. The milk goes in the middle shelf of the fridge, near the back of it.
+The first thing you need to make sure your fridge has, are the essentials. These are the things that your family uses the most of, and are often put into the dishes that are cooked or eaten with them. Examples of this include bread, milk, vegetables (like tomatoes, lettuce, carrots, onions, etc...), cheese, and butter. These are usually things you would place in different categories. The cheese and butter can go on the side of the fridge, or on the top, while the vegetables can go into the bottom trays of a fridge. The milk goes in the middle shelf of the fridge, near the back of it and the bread goes on the top shelf of the fridge.
 
 # Condiments
 
@@ -15,16 +15,9 @@ Food is hard to eat iwthout condiments that are able to make it taste so much be
 
 Drinks are used very often, so they need to be put into places that are not too cluttered or full so that nothing spills or falls out. This is why drinks tend to go in the middle shelf of the fridge, right in front of, or near, the milk. You should keep all of the drinks organized into neat rows so that more drinks are able to fit in that amount of space. If needed, buying small plastic containers to stack drinks inside of can help to organize this area while also maximizing the amount of drinks that can fit into the fridge at one time. These small plastic containers can be found [here].
 
-# Heading 5
+# Freezer
 
-This is another way to put link inside text.
-
-This is how you put a link inside text.
-This is [an example](http://example.com/ "Title") inline link.
-
-I like [Google]
-
-[Google]: http://google.com
+The freezer, unlike the fridge, isn't too hard to organize. Anything that is a snack/dessert, like ice cream or frozen waffles, go on the top shelf of the freezer. Anything else, such as frozen pizzas or similar items, go on the bottom shelf of the freezer (or whichever shelf is bigger). Any remaining space can be used for ice cubes if desired, but some freezers may have automatic ice makers so this may not be needed.
 
 # Heading 6
 
