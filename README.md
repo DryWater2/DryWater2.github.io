@@ -24,13 +24,6 @@ The freezer, unlike the fridge, isn't too hard to organize. Anything that is a s
 <img src="Freezer.png" Height="500">
 "freezer interior" by girl_named_fred is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
 
-# Heading 6
-
-You can put images by doing
-
-<img src="Cow.jpg" width="200" height="100"/>
-Look! I figured out how to edit the image's height and width. Apparently you can use HTML inside of a markdown file. It's cool!
-
 [here]:https://www.walmart.com/ip/InterDesign-Fridge-Binz-Water-Bottle-Holder-Clear/38413024?wmlspartner=wlpa&selectedSellerId=102526002 
 [https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse.
 [https://creativecommons.org/licenses/by/2.0/?ref=openverse}]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
