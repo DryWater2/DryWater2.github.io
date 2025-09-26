@@ -1,15 +1,15 @@
 
-# Heading 1
+# Overview
 
-This is a heading. A heading is used to denote the information coming below the heading. If the heading is "Spiders: Friend or foe?", then you know that section will be talking about spiders.
+Organizing a fridge should be based on how much available space is in your fridge, how many people are living in the household, and the amount of food that is consumed within a short amount of time (usually a week). The more people living in the household, the more food that is consumed within a duration of time. This means that you need to buy a lot more food, and you likely don't know how to organize it to have proper access to everything you want to put in the fridge. This guide will attempt to help make this problem a bit easier.
 
-# Heading 2
+# The essentials
 
-I'm not actually sure what to make this site about just yet. So, for now, I'm just putting filler text here until I manage to figure it out.
+The first thing you need to make sure your fridge has, are the essentials. These are the things that your family uses the most of, and are often put into the dishes that are cooked or eaten with them. Examples of this include milk, vegetables (like tomatoes, lettuce, carrots, onions, etc...), cheese, and butter. These are usually things you would place in different categories. The cheese and butter can go on the side of the fridge, or on the top, while the vegetables can go into the bottom trays of a fridge. 
 
-# Heading 3
+# Condiments
 
-### I also don't understand how to do certain HTML things with Markdown. For example, for html, I'm able to change the font-size with style; how do I do that with markdown? I figured out how to change the font-size. It's based on the header.
+Food is hard to eat iwthout condiments that are able to make it taste so much better. Examples of condiments include salsa, ketchup, mayonnaise, mustard, ranch, tabasco sauce, etc... Condiments usually go onto the side of the fridge for easy access when grabbing them right before eating. This makes sure that nothing spills out from the middle of the fridge while rummaging quickly before the food gets cold. 
 
 # Heading 4
 This is how you put a link inside text.
