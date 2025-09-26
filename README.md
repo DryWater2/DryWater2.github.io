@@ -24,6 +24,10 @@ The freezer, unlike the fridge, isn't too hard to organize. Anything that is a s
 <img src="Freezer.png" Height="500">
 "freezer interior" by girl_named_fred is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
 
+# Miscellaneous
+
+Other items can be placed to the user's discretion. However, note that you should only be buying as much food as is used before buying groceries. If there was a unit to measure all food, if my household uses 30 units of food a week, and I go to buy groceries every week, I should only be buying 30-35 units of food to make sure there is not so much extra food that it ends up getting wasted. This guide is not a one-size-fits-all as fridges can be made differently depending on the brand, but following the principles talked about in this guide will help for organization and proper usage of your fridge without any waste.
+
 [here]:https://www.walmart.com/ip/InterDesign-Fridge-Binz-Water-Bottle-Holder-Clear/38413024?wmlspartner=wlpa&selectedSellerId=102526002 
 [https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
 [https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
