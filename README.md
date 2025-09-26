@@ -3,7 +3,7 @@
 
 Organizing a fridge should be based on how much available space is in your fridge, how many people are living in the household, and the amount of food that is consumed within a short amount of time (usually a week). The more people living in the household, the more food that is consumed within a duration of time. This means that you need to buy a lot more food, and you likely don't know how to organize it to have proper access to everything you want to put in the fridge. This guide will attempt to help make this problem a bit easier.
 
-<img src="Fridge.png" height="800">
+<img src="Fridge.png" height="800" width="600">
 "My Fridge - Interior" by Brett Jordan is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
 
 # The essentials
