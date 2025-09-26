@@ -16,11 +16,11 @@ Food is hard to eat iwthout condiments that are able to make it taste so much be
 
 # Drinks
 
-Drinks are used very often, so they need to be put into places that are not too cluttered or full so that nothing spills or falls out. This is why drinks tend to go in the middle shelf of the fridge, right in front of, or near, the milk. You should keep all of the drinks organized into neat rows so that more drinks are able to fit in that amount of space. If needed, buying small plastic containers to stack drinks inside of can help to organize this area while also maximizing the amount of drinks that can fit into the fridge at one time. These small plastic containers can be found on this [website] or this [one].
+Drinks are used very often, so they need to be put into places that are not too cluttered or full so that nothing spills or falls out. This is why drinks tend to go in the middle shelf of the fridge, right in front of, or near, the milk. You should keep all of the drinks organized into neat rows so that more drinks are able to fit in that amount of space. If needed, buying small plastic containers to stack drinks inside of can help to organize this area while also maximizing the amount of drinks that can fit into the fridge at one time. These small plastic containers can be found on this [webpage] or this [one].
 
 # Freezer
 
-The freezer, unlike the fridge, isn't too hard to organize. Anything that is a snack/dessert, like ice cream or frozen waffles, go on the top shelf of the freezer. This also includes items like popsicles, as well as ice packs in case of any injury requiring quick treatment. Anything else, such as frozen pizzas or similar items, go on the bottom shelf of the freezer (or whichever shelf is bigger). Any remaining space can be used for ice cubes if desired, but some freezers may have automatic ice makers so this may not be needed.
+The freezer, unlike the fridge, isn't too hard to organize. Anything that is a snack/dessert, like ice cream or frozen waffles, go on the top shelf of the freezer. This also includes items like popsicles, as well as ice packs in case of any injury requiring quick treatment. Anything else, such as frozen pizzas or similar items, go on the bottom shelf of the freezer (or whichever shelf is bigger). Any remaining space can be used for ice cubes if desired, though sometimes this is built in.
 <img src="Freezer.png" Height="500">
 "freezer interior" by girl_named_fred is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
 
@@ -28,7 +28,5 @@ The freezer, unlike the fridge, isn't too hard to organize. Anything that is a s
 
 Other items can be placed with the user's discretion. However, note that you should only be buying as much food as is used before buying groceries. If there was a unit to measure all food, if my household uses 30 units of food a week, and I go to buy groceries every week, I should only be buying 30-35 units of food to make sure there is not so much extra food that it ends up getting wasted. This guide is not a one-size-fits-all as fridges can be made differently depending on the brand, but following the principles talked about in this guide will help for organization and proper usage of your fridge without any waste.
 
-[website]:https://www.walmart.com/ip/InterDesign-Fridge-Binz-Water-Bottle-Holder-Clear/38413024?wmlspartner=wlpa&selectedSellerId=102526002 
-[one]: https://creativecommons.org/licenses/by/2.0/?ref=openverse
-[https://creativecommons.org/licenses/by/2.0/?ref=openverse]]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
-[https://creativecommons.org/licenses/by/2.0/?ref=openverse.]:https://creativecommons.org/licenses/by/2.0/?ref=openverse
+[webpage]:https://www.walmart.com/ip/InterDesign-Fridge-Binz-Water-Bottle-Holder-Clear/38413024?wmlspartner=wlpa&selectedSellerId=102526002 
+[one]: https://www.walmart.com/ip/Drink-Organizer-for-Fridge-Soda-Can-Dispenser-for-Refrigerator/17050703321?wmlspartner=wlpa&selectedSellerId=101128125 
