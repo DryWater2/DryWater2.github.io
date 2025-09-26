@@ -3,6 +3,9 @@
 
 Organizing a fridge should be based on how much available space is in your fridge, how many people are living in the household, and the amount of food that is consumed within a short amount of time (usually a week). The more people living in the household, the more food that is consumed within a duration of time. This means that you need to buy a lot more food, and you likely don't know how to organize it to have proper access to everything you want to put in the fridge. This guide will attempt to help make this problem a bit easier.
 
+<img src="Fridge.png" height="800">
+"My Fridge - Interior" by Brett Jordan is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
+
 # The essentials
 
 The first thing you need to make sure your fridge has, are the essentials. These are the things that your family uses the most of, and are often put into the dishes that are cooked or eaten with them. Examples of this include bread, milk, vegetables (like tomatoes, lettuce, carrots, onions, etc...), cheese, and butter. These are usually things you would place in different categories. The cheese and butter can go on the side of the fridge, or on the top, while the vegetables can go into the bottom trays of a fridge. The milk goes in the middle shelf of the fridge, near the back of it and the bread goes on the top shelf of the fridge.
