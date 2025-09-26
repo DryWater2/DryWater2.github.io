@@ -5,18 +5,22 @@ Organizing a fridge should be based on how much available space is in your fridg
 
 # The essentials
 
-The first thing you need to make sure your fridge has, are the essentials. These are the things that your family uses the most of, and are often put into the dishes that are cooked or eaten with them. Examples of this include milk, vegetables (like tomatoes, lettuce, carrots, onions, etc...), cheese, and butter. These are usually things you would place in different categories. The cheese and butter can go on the side of the fridge, or on the top, while the vegetables can go into the bottom trays of a fridge. 
+The first thing you need to make sure your fridge has, are the essentials. These are the things that your family uses the most of, and are often put into the dishes that are cooked or eaten with them. Examples of this include milk, vegetables (like tomatoes, lettuce, carrots, onions, etc...), cheese, and butter. These are usually things you would place in different categories. The cheese and butter can go on the side of the fridge, or on the top, while the vegetables can go into the bottom trays of a fridge. The milk goes in the middle shelf of the fridge, near the back of it.
 
 # Condiments
 
 Food is hard to eat iwthout condiments that are able to make it taste so much better. Examples of condiments include salsa, ketchup, mayonnaise, mustard, ranch, tabasco sauce, etc... Condiments usually go onto the side of the fridge for easy access when grabbing them right before eating. This makes sure that nothing spills out from the middle of the fridge while rummaging quickly before the food gets cold. 
 
-# Heading 4
-This is how you put a link inside text.
-This is [an example](http://example.com/ "Title") inline link.
+# Drinks
+
+Drinks are used very often, so they need to be put into places that are not too cluttered or full so that nothing spills or falls out. This is why drinks tend to go in the middle shelf of the fridge, right in front of, or near, the milk. You should keep all of the drinks organized into neat rows so that more drinks are able to fit in that amount of space. If needed, buying small plastic containers to stack drinks inside of can help to organize this area while also maximizing the amount of drinks that can fit into the fridge at one time. These small plastic containers can be found [here].
 
 # Heading 5
+
 This is another way to put link inside text.
+
+This is how you put a link inside text.
+This is [an example](http://example.com/ "Title") inline link.
 
 I like [Google]
 
@@ -28,3 +32,5 @@ You can put images by doing
 
 <img src="Cow.jpg" width="200" height="100"/>
 Look! I figured out how to edit the image's height and width. Apparently you can use HTML inside of a markdown file. It's cool!
+
+[here]:https://www.walmart.com/ip/InterDesign-Fridge-Binz-Water-Bottle-Holder-Clear/38413024?wmlspartner=wlpa&selectedSellerId=102526002 
